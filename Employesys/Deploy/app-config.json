@@ -1,0 +1,9 @@
+{
+	"command": "java -jar Employesys-0.0.1-SNAPSHOT.jar",
+	"build_path": "C:\\Users\\kmara\\git\\Employee.mgt\\Employesys\\Deploy",
+	"stack": "java17",
+	"env_variables": {},
+	"memory": 256,
+	"scripts": {},
+	"platform": "javase"
+}
