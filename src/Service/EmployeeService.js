@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL='http://localhost:8080/api/employees'
+const BASE_URL='https://hostingspring-50023979080.development.catalystappsail.in/api/employees'
 
 export const listemployee =() => axios.get(BASE_URL);
 
